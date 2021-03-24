@@ -3,6 +3,7 @@ flask_sqlalchemy
 flask_wtf
 flask_migrate
 Flask-Cors
+flaskForm
 babel
 python-dateutil
 lask-moment
