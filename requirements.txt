@@ -1,7 +1,7 @@
 babel
 python-dateutil
-flask-moment
-FlaskForm
+lask-moment
+flaskForm
 datetime
 flask 
 flask_sqlalchemy
